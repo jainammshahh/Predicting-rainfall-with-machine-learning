@@ -1,5 +1,14 @@
 # Project Overview
 
+<p align="left"> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" width="120" height="30"/> </a>
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="jupyter" width="120" height="30"/> </a>
+<a href="https://colab.research.google.com/?utm_source=scs-index" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="scipy" width="120" height="30"/> </a>
+<a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" width="120" height="30"/> </a>
+<a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" alt="scipy" width="120" height="30"/> </a>
+
+</p>
+
 The agricultural industry heavily relies on weather conditions for effective decision-making in farming activities. Predicting weather conditions can be challenging, especially in regions with unpredictable weather patterns, leading to farmers making suboptimal decisions that impact yields and cost them valuable resources. 
 
 Traditional methods of weather forecasting can be time-consuming and may not always provide accurate results. In recent years, climate change has made weather patterns even more unpredictable, exacerbating the problem of inaccurate weather predictions. There is a pressing need to develop more accurate and efficient methods for predicting rainfall.
